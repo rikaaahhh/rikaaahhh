@@ -151,20 +151,20 @@ fn main() {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=r1ktx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff0055&icon_color=ff0055&text_color=ffffff&ring_color=ff0055"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ktx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0055&text_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rikaaahhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff0055&icon_color=ff0055&text_color=ffffff&ring_color=ff0055"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikaaahhh&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0055&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=r1ktx&theme=dark&hide_border=true&background=0D0D0D&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rikaaahhh&theme=dark&hide_border=true&background=0D0D0D&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=r1ktx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rikaaahhh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -175,7 +175,7 @@ fn main() {
 
 <div align="center">
 
-[![Rika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r1ktx&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=ff0055&line=ff0055&point=ffffff&area=true&area_color=ff005533)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rikaaahhh&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=ff0055&line=ff0055&point=ffffff&area=true&area_color=ff005533)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -209,7 +209,7 @@ fn main() {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0"/>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=r1ktx.r1ktx&left_color=black&right_color=crimson&left_text=intrusions)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rikaaahhh.rikaaahhh&left_color=black&right_color=crimson&left_text=intrusions)
 
 **`[ 理香 // rikaaahhh // r1ktx ]`**
 
