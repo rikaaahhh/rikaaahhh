@@ -1,151 +1,133 @@
-<!-- ========================================= -->
-<!--           R I K A   P R O F I L E         -->
-<!-- ========================================= -->
-
+---
 <div align="center">
 
 # 理香
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=rikaaahhh&fontColor=ffffff&fontSize=40&fontAlignY=35" />
-
-### insane build energy
+### Systems Developer
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/rustacean-🦀-black?style=for-the-badge&logo=rust" />
-<img src="https://img.shields.io/badge/open%20source-contributor-00c2ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/systems-engineering-ff4d4d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/design-first-ff66cc?style=for-the-badge" />
+Engine Architecture · Rendering Systems · Low-Level Design
 
 </div>
 
----
-
-## ▓ identity
-
-```txt
-name        :: 理香
-handle      :: @rikaaahhh
-state       :: unstable / building
-mode        :: experimental
-
+<br/><br/><br/>
 
 ---
 
-▓ stack
+<br/><br/>
 
-<p align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
-<img src="https://img.shields.io/badge/GPU%20Rendering-7B42BC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Engine%20Design-FF3B30?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Low%20Level-111111?style=for-the-badge" /></p>
----
+## Overview
 
-▓ current focus
+I design and build low-level systems with a focus on clarity, performance, and structural control.
 
-game engine core architecture
-
-real-time renderer
-
-ECS design experiments
-
-GPU pipeline understanding
-
-performance obsession
-
-
+Everything is intentional. Nothing is accidental.
 
 ---
 
-▓ core loop
+<br/><br/><br/>
 
-fn dev_cycle() {
-    loop {
-        build();
-        test();
-        break_things();
-        optimize();
+## Focus
 
-        if performance < target {
-            refactor_harder();
-        }
-    }
-}
-
+Game Engine Architecture  
+Real-Time Rendering  
+GPU Pipeline Design  
+ECS Systems  
+Performance Engineering  
 
 ---
 
-▓ system status
+<br/><br/><br/>
 
-kernel      :: unstable
-build       :: always compiling
-runtime     :: unpredictable
-bugs        :: intentional
-focus       :: maximum control
+## Design Principles
 
-
----
-
-▓ philosophy
-
-no magic
-no hidden flow
-no unnecessary abstraction
-only control
-only clarity
-
+Clarity before complexity  
+Control before abstraction  
+Simplicity as a constraint  
+Correctness as a requirement  
 
 ---
 
-▓ architecture mindset
+<br/><br/><br/>
 
-if it’s slow → remove it
-if it’s complex → simplify it
-if it’s stable → break it and rebuild better
+## Stack
+
+Rust  
+C++  
+GPU Programming  
+Systems Design  
+Mathematics for Graphics  
+
+---
+
+<br/><br/><br/>
+
+## Current Work
+
+Engine core architecture  
+Rendering pipeline prototype  
+ECS experimentation layer  
+Performance optimization systems  
+
+---
+
+<br/><br/><br/>
+
+## Philosophy
+
+> “Systems should remain understandable even after they evolve.”
+
+---
+
+<br/><br/><br/>
+
+## Environment
+
+```txt id="e8xv9m"
+OS          :: experimental
+Build       :: continuous
+State       :: evolving
+Focus       :: structural clarity
+Stability   :: adaptive
 
 
 ---
 
-▓ github activity
+<br/><br/><br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rikaaahhh&show_icons=true&theme=radical&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikaaahhh&theme=radical&hide_border=true" height="160"/></div>
----
-
-▓ terminal
+Terminal
 
 $ cargo run --release
-→ compiling reality...
+→ initializing systems...
 
-$ echo "it works"
-it works
+$ echo "ready"
+ready
 
-$ git commit -m "don’t touch this"
-
-
----
-
-▓ projects
-
-engine-core      :: in progress
-renderer-v2      :: unstable
-ecs-experiment   :: breaking things
-sandbox          :: chaos lab
+$ git commit -m "refine structure"
 
 
 ---
 
-▓ contact
+<br/><br/><br/>
 
-status :: building
-response time :: unpredictable
+Status
+
+Active
+Building
+Iterating
 
 
 ---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer" /></div>
-```
+<br/><br/><br/>
+
+<div align="center">Everything here is intentional.
+Nothing is decorative.
+
+</div><br/><br/>
+
+---
