@@ -1,133 +1,111 @@
----
 <div align="center">
 
 # 理香
 
-### Systems Developer
+### @rikaaahhh
 
 </div>
 
-<br/><br/>
+---
 
 <div align="center">
 
-Engine Architecture · Rendering Systems · Low-Level Design
+⚙️ systems engineer  
+🦀 rust  
+🌐 open source  
+🎨 design-first
 
 </div>
 
-<br/><br/><br/>
-
 ---
 
-<br/><br/>
+<br/>
 
-## Overview
+## identity
 
-I design and build low-level systems with a focus on clarity, performance, and structural control.
-
-Everything is intentional. Nothing is accidental.
-
----
-
-<br/><br/><br/>
-
-## Focus
-
-Game Engine Architecture  
-Real-Time Rendering  
-GPU Pipeline Design  
-ECS Systems  
-Performance Engineering  
-
----
-
-<br/><br/><br/>
-
-## Design Principles
-
-Clarity before complexity  
-Control before abstraction  
-Simplicity as a constraint  
-Correctness as a requirement  
-
----
-
-<br/><br/><br/>
-
-## Stack
-
-Rust  
-C++  
-GPU Programming  
-Systems Design  
-Mathematics for Graphics  
-
----
-
-<br/><br/><br/>
-
-## Current Work
-
-Engine core architecture  
-Rendering pipeline prototype  
-ECS experimentation layer  
-Performance optimization systems  
-
----
-
-<br/><br/><br/>
-
-## Philosophy
-
-> “Systems should remain understandable even after they evolve.”
-
----
-
-<br/><br/><br/>
-
-## Environment
-
-```txt id="e8xv9m"
-OS          :: experimental
-Build       :: continuous
-State       :: evolving
-Focus       :: structural clarity
-Stability   :: adaptive
+```txt
+name     : rika
+state    : building
+focus    : systems / engine / rendering
+mode     : experimental
 
 
 ---
 
-<br/><br/><br/>
+<br/>focus
 
-Terminal
+game engine architecture
 
-$ cargo run --release
-→ initializing systems...
+real-time rendering
 
-$ echo "ready"
-ready
+GPU pipelines
 
-$ git commit -m "refine structure"
+ECS design
 
+performance systems
 
----
-
-<br/><br/><br/>
-
-Status
-
-Active
-Building
-Iterating
 
 
 ---
 
-<br/><br/><br/>
+<br/>stack
 
-<div align="center">Everything here is intentional.
-Nothing is decorative.
+rust · c++ · gpu · low-level systems · math
 
-</div><br/><br/>
+
+---
+
+<br/>current work
+
+engine core
+renderer pipeline
+ecs rewrite
+performance layer
+
+
+---
+
+<br/>philosophy
+
+> remove everything that is not needed
+keep only what matters
+
+
+
+
+---
+
+<br/>status
+
+active — building — iterating
+
+
+---
+
+<br/><div align="center">still under construction
+
+</div>
+```
+---
+
+🧠 What makes THIS different (important)
+
+This is what you were missing:
+
+no noise
+
+strong spacing rhythm
+
+Apple-style breathing layout
+
+identity first, not description first
+
+engineering mindset, not blog style
+
+no emojis spam
+
+no “AI generated paragraph energy”
+
+
 
 ---
